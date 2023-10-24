@@ -1,6 +1,5 @@
-import { Box, ColorModeScript } from "@chakra-ui/react";
+import { Box } from "@chakra-ui/react";
 import  ContentMain  from "./components/ContentMain";
-import { Head, Html, Main, NextScript } from "next/document";
 
 export default function Page() {
   return (
